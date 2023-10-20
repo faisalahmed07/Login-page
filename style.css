@@ -1,0 +1,56 @@
+*{
+    font-family: 'AR One Sans', sans-serif;
+font-family: 'Gruppo', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+
+.startechlogo{
+    top: 36%;
+    right: 30%;
+    position: absolute;
+    color: #076ee3;
+}
+
+.startechlogo span{
+    color: orangered;
+}
+
+.startechlogo p {
+    color: black;
+}
+
+
+
+.startechform{
+    position: absolute;
+bottom: 40%;
+   left: 65%;
+   
+}
+
+body{
+    background-color:#c7c8c9;
+}
+
+
+.startechform input{
+    display: block;
+}
+
+
+.startechform button{
+    padding: 1px 66px;
+    transition: 0.6s;
+}
+.startechform input:hover{
+    background-color: greenyellow;
+    color: rgb(45, 13, 184);
+}
+
+.startechform button:hover{
+    background-color: greenyellow;
+    color: rgb(45, 13, 184);
+}
